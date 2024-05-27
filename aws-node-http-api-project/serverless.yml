@@ -3,6 +3,7 @@ frameworkVersion: '3'
 
 provider:
   name: aws
+  deploymentMethod: direct
   runtime: nodejs18.x
 
 functions:
